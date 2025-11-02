@@ -6,5 +6,5 @@ git branch -M main
 git remote add origin https://github.com/yourusername/my-website.git
 git push -u origin main
 saaket.html
-home.html
+saaket.html
 saaket.html
